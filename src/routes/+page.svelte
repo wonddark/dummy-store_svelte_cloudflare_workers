@@ -1,2 +1,18 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+</script>
+
+<header>
+	<nav>
+		<ul>
+			<li>
+				<a href="/products">Products</a>
+			</li>
+			<li>
+				<a href="/categories">Categories</a>
+			</li>
+		</ul>
+	</nav>
+</header>
+<section>
+
+</section>

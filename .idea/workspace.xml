@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2895f58c-b0da-41ea-8ce6-28855fa5cf69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/app-sidebar.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/categories-breadcrumbs.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/product-card.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/products-breadcrumbs.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/review.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/search-form.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/star-rating/star-rating.client.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/star-rating/star.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/aspect-ratio/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/breadcrumb/breadcrumb-ellipsis.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/breadcrumb/breadcrumb-item.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/breadcrumb/breadcrumb-link.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/breadcrumb/breadcrumb-list.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/breadcrumb/breadcrumb-page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/breadcrumb/breadcrumb-separator.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/breadcrumb/breadcrumb.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/breadcrumb/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/button/button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/button/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/card/card-content.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/card/card-description.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/card/card-footer.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/card/card-header.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/card/card-title.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/card/card.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/card/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/collapsible/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/input/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/input/input.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/label/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/label/label.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/pagination/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/pagination/pagination-content.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/pagination/pagination-ellipsis.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/pagination/pagination-item.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/pagination/pagination-link.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/pagination/pagination-next-button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/pagination/pagination-prev-button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/pagination/pagination.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/separator/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/separator/separator.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sheet/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sheet/sheet-content.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sheet/sheet-description.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sheet/sheet-footer.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sheet/sheet-header.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sheet/sheet-overlay.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sheet/sheet-title.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/context.svelte.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-content.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-footer.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-group-action.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-group-content.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-group-label.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-group.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-header.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-input.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-inset.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu-action.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu-badge.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu-button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu-item.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu-skeleton.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu-sub-button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu-sub-item.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu-sub.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-menu.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-provider.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-rail.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-separator.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar-trigger.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/sidebar/sidebar.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/skeleton/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/skeleton/skeleton.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/tooltip/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/components/ui/tooltip/tooltip-content.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/hooks/is-mobile.svelte.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/types/product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/+page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/categories/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/categories/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/categories/+page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/categories/[slug]/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/categories/[slug]/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/categories/[slug]/+page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/products/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/products/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/products/+page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/products/[id]/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/products/[id]/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/products/[id]/+page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2pNG6ePuLarSlpFEoI7pf9A9YcE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/oz/Projects/my-svelte-app",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "pnpm",
+    "npm.dev.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "/home/oz/Projects/my-svelte-app/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "/home/oz/Projects/my-svelte-app/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2895f58c-b0da-41ea-8ce6-28855fa5cf69" name="Changes" comment="" />
+      <created>1731246143444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731246143444</updated>
+      <workItem from="1731246144468" duration="520000" />
+      <workItem from="1731271703475" duration="33000" />
+      <workItem from="1732598948839" duration="1178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>

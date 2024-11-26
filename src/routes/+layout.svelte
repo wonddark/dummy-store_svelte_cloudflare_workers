@@ -1,6 +1,14 @@
 <script lang="ts">
 	import '../app.css';
-	let { children } = $props();
+
+	const { children } = $props();
 </script>
 
-{@render children()}
+<svelte:head>
+	<title>GoodValue</title>
+	<meta name="description" content="GoodValue online store" />
+</svelte:head>
+
+<div>
+	{@render children()}
+</div>
