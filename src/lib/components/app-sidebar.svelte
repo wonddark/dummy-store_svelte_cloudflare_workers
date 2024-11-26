@@ -134,7 +134,7 @@
 
 <script lang="ts">
 	import SearchForm from "$lib/components/search-form.svelte";
-	import * as Collapsible from "$lib/components/ui/collapsible/index.js";
+	import {Root, Trigger, Content} from "$lib/components/ui/collapsible";
 	import * as Sidebar from "$lib/components/ui/sidebar/index.js";
 	import GalleryVerticalEnd from "lucide-svelte/icons/shopping-basket";
 	import Minus from "lucide-svelte/icons/minus";
@@ -171,9 +171,9 @@
 		<Sidebar.Group>
 			<Sidebar.Menu>
 				{#each data.navMain as mainItem, index (mainItem.title)}
-					<Collapsible.Root open={index === 1} class="group/collapsible">
+					<Root open={index === 1} class="group/collapsible">
 						<Sidebar.MenuItem>
-							<Collapsible.Trigger>
+							<Trigger>
 								{#snippet child({ props })}
 									<Sidebar.MenuButton {...props}>
 										{mainItem.title}{" "}
@@ -185,9 +185,9 @@
 										/>
 									</Sidebar.MenuButton>
 								{/snippet}
-							</Collapsible.Trigger>
+							</Trigger>
 							{#if mainItem.items?.length}
-								<Collapsible.Content>
+								<Content>
 									<Sidebar.MenuSub>
 										{#each mainItem.items as item (item.title)}
 											<Sidebar.MenuSubItem>
@@ -201,10 +201,10 @@
 											</Sidebar.MenuSubItem>
 										{/each}
 									</Sidebar.MenuSub>
-								</Collapsible.Content>
+								</Content>
 							{/if}
 						</Sidebar.MenuItem>
-					</Collapsible.Root>
+					</Root>
 				{/each}
 			</Sidebar.Menu>
 		</Sidebar.Group>

@@ -4,6 +4,7 @@
 	import type { HTMLAttributes } from 'svelte/elements';
 	import { SIDEBAR_WIDTH_MOBILE } from './constants.js';
 	import { useSidebar } from './context.svelte.js';
+	import { Content, Root } from '../sheet';
 
 	let {
 		ref = $bindable(null),
@@ -34,13 +35,13 @@
 		{@render children?.()}
 	</div>
 {:else if sidebar.isMobile}
-	<Sheet.Root
+	<Root
 		controlledOpen
 		open={sidebar.openMobile}
 		onOpenChange={sidebar.setOpenMobile}
 		{...restProps}
 	>
-		<Sheet.Content
+		<Content
 			data-sidebar="sidebar"
 			data-mobile="true"
 			class="bg-sidebar text-sidebar-foreground w-[--sidebar-width] p-0 [&>button]:hidden"
@@ -50,8 +51,8 @@
 			<div class="flex h-full w-full flex-col">
 				{@render children?.()}
 			</div>
-		</Sheet.Content>
-	</Sheet.Root>
+		</Content>
+	</Root>
 {:else}
 	<div
 		bind:this={ref}
